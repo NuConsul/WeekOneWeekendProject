@@ -15,15 +15,15 @@ Show the result in a separate TextView.
 
 First Activity
 
-![Pics](PicOne.png)
+![](Pics/PicOne.png)
 
 
 Second Activity
 
-![Pics](PicTwo.png)
+![](Pics/PicTwo.png)
 
 Third Activity
 
-![Pics](PicThree.png)
+![](Pics/PicThree.png)
 
 
